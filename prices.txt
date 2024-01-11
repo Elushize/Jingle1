@@ -1,1 +1,2 @@
 mango - 100
+orange -50
